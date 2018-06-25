@@ -11506,28 +11506,30 @@
     ]
   },
   "packageFolders": {
-    "/home/devdevil/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\daniel.kansaon.MQ\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/devdevil/Documentos/Projetos/Git/Api-Auditoria/Api-Auditoria.csproj",
+      "projectUniqueName": "d:\\GIT\\Api-Auditoria\\Api-Auditoria.csproj",
       "projectName": "Api-Auditoria",
-      "projectPath": "/home/devdevil/Documentos/Projetos/Git/Api-Auditoria/Api-Auditoria.csproj",
-      "packagesPath": "/home/devdevil/.nuget/packages/",
-      "outputPath": "/home/devdevil/Documentos/Projetos/Git/Api-Auditoria/obj/",
+      "projectPath": "d:\\GIT\\Api-Auditoria\\Api-Auditoria.csproj",
+      "packagesPath": "C:\\Users\\daniel.kansaon.MQ\\.nuget\\packages\\",
+      "outputPath": "d:\\GIT\\Api-Auditoria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/devdevil/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\daniel.kansaon.MQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

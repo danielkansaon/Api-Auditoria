@@ -1,0 +1,14 @@
+D:\GIT\Api-Auditoria\bin\Debug\netcoreapp2.1\Api-Auditoria.deps.json
+D:\GIT\Api-Auditoria\bin\Debug\netcoreapp2.1\Api-Auditoria.runtimeconfig.json
+D:\GIT\Api-Auditoria\bin\Debug\netcoreapp2.1\Api-Auditoria.runtimeconfig.dev.json
+D:\GIT\Api-Auditoria\bin\Debug\netcoreapp2.1\Api-Auditoria.dll
+D:\GIT\Api-Auditoria\bin\Debug\netcoreapp2.1\Api-Auditoria.pdb
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.csprojAssemblyReference.cache
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.csproj.CoreCompileInputs.cache
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.RazorAssemblyInfo.cache
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.RazorAssemblyInfo.cs
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.AssemblyInfoInputs.cache
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.AssemblyInfo.cs
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.RazorTargetAssemblyInfo.cache
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.dll
+D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.pdb
