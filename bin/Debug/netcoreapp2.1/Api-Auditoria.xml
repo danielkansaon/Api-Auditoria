@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api-Auditoria</name>
+    </assembly>
+    <members>
+        <member name="T:Api_Auditoria.Controllers.v1.LogController">
+            <summary>
+            Recurso controlador dos logs de auditoria
+            </summary>
+        </member>
+        <member name="M:Api_Auditoria.Controllers.v1.LogController.Post(auditoria)">
+            <summary>
+            Incluir um novo Log de auditoria.
+            </summary>
+            <param name="auditoria">Informação a ser incluída</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api_Auditoria.Controllers.v1.LogController.Post(System.Int64)">
+            <summary>
+            Obter transações feitas por um usuário.
+            </summary>
+            <param name="idusuario">Id do usuário.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

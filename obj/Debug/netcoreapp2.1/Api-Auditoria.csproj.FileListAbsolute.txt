@@ -12,3 +12,4 @@ D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.AssemblyInfo.cs
 D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.RazorTargetAssemblyInfo.cache
 D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.dll
 D:\GIT\Api-Auditoria\obj\Debug\netcoreapp2.1\Api-Auditoria.pdb
+D:\GIT\Api-Auditoria\bin\Debug\netcoreapp2.1\Api-Auditoria.xml
